@@ -1,4 +1,4 @@
-# rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+# FORK rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 rga is a line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome [ripgrep] and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
 
